@@ -10,14 +10,14 @@ Created interactive visualizations for monthly transactions, revenue, expenses, 
 Implemented trend analysis comparing data from 2024 and 2025 to identify growth patterns.
 ## 4. Automated Data Processing with SQL Stored Procedures
 Developed and integrated key SQL stored procedures into Power BI for real-time business insights across 2024-2025, including:
-GetDailySpotLightDashBoard → Provides daily transaction summaries for 2024 and 2025.
-GetListContainersDashBoard → Tracks container movements and logistics.
-GetOperationsForDashBoard → Monitors monthly and yearly operational performance.
-GetOperationStagesDashBoard → Analyzes different stages of business operations.
-GetTopFiveCustodies → Identifies the top five custody holders.
-GetTopFiveCustomersDashBoard → Highlights the top 5 revenue-generating customers for 2024 and 2025.
-GetListvwFlotBarPayables → Tracks outstanding payables and financial obligations.
-GetListvwFlotBarReceivables → Monitors incoming payments and cash flow health.
+          GetDailySpotLightDashBoard → Provides daily transaction summaries for 2024 and 2025.
+          GetListContainersDashBoard → Tracks container movements and logistics.
+          GetOperationsForDashBoard → Monitors monthly and yearly operational performance.
+          GetOperationStagesDashBoard → Analyzes different stages of business operations.
+          GetTopFiveCustodies → Identifies the top five custody holders.
+          GetTopFiveCustomersDashBoard → Highlights the top 5 revenue-generating customers for 2024 and 2025.
+          GetListvwFlotBarPayables → Tracks outstanding payables and financial obligations.
+          GetListvwFlotBarReceivables → Monitors incoming payments and cash flow health.
 ## 5. Enhanced Business Decision-Making
 Provided actionable insights to KDL for financial planning, revenue forecasting, and operational efficiency.
 Improved reporting speed and accuracy by leveraging optimized SQL queries and Power BI modeling.
